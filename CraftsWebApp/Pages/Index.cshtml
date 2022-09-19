@@ -7,5 +7,11 @@
 <div class="text-center">
     <h1 class="display-4">My Crafts</h1>
     <h2>Enjoy this crafts</h2>
+    <h2>Enjoy!</h2>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+@foreach (var product in Model.Products)
+{
+    <h2>@product.Title</h2>
+}
