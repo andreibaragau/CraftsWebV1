@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dot Net Workspace\\CraftsWebApp\\CraftsWebApp\\CraftsWebApp.csproj",
+      "projectUniqueName": "D:\\Dot Net Workspace\\CraftsWebAppFromMyGit\\CraftsWebApp\\CraftsWebApp.csproj",
       "projectName": "CraftsWebApp",
-      "projectPath": "D:\\Dot Net Workspace\\CraftsWebApp\\CraftsWebApp\\CraftsWebApp.csproj",
+      "projectPath": "D:\\Dot Net Workspace\\CraftsWebAppFromMyGit\\CraftsWebApp\\CraftsWebApp.csproj",
       "packagesPath": "C:\\Users\\andy\\.nuget\\packages\\",
-      "outputPath": "D:\\Dot Net Workspace\\CraftsWebApp\\CraftsWebApp\\obj\\",
+      "outputPath": "D:\\Dot Net Workspace\\CraftsWebAppFromMyGit\\CraftsWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
